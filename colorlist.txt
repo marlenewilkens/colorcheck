@@ -1,0 +1,13 @@
+red
+blue
+green
+yellow
+lilac
+pink
+brown
+beige
+black
+white
+orange
+khaki
+petrol
